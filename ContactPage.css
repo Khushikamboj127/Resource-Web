@@ -169,7 +169,7 @@ span {
 .contact-form form input,
 form textarea{
   width: 100%;
-  padding: 0px;
+  padding: 15px;
   border: none;
   outline: none;
   background: #cccccc;
